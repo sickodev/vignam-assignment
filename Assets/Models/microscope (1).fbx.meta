@@ -1,0 +1,2455 @@
+fileFormatVersion: 2
+guid: 2488993a858885346891bec7b805deaa
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 726560516816406887
+    second: body|Plane.001Action
+  - first:
+      74: -1096953173512493919
+    second: body|Plane.002Action
+  - first:
+      74: -1632864851391260548
+    second: body|Plane.003Action
+  - first:
+      74: -5339093023723649619
+    second: body|Plane.004Action
+  - first:
+      74: -3976586123379436644
+    second: body|Plane.005Action
+  - first:
+      74: 8868880010568990208
+    second: body|Plane.007Action
+  - first:
+      74: 5369965367196006629
+    second: body|Plane.008Action
+  - first:
+      74: 2340322899955840945
+    second: body|Plane.009Action
+  - first:
+      74: -3792272885804036611
+    second: body|Plane.010Action
+  - first:
+      74: -3765940886729323252
+    second: body|Plane.011Action
+  - first:
+      74: 7082377477693899601
+    second: body|Plane.012Action
+  - first:
+      74: -928679871726061482
+    second: body|Plane.013Action
+  - first:
+      74: 6121989432952081226
+    second: body|Plane.014Action
+  - first:
+      74: -5282391857998452743
+    second: body|Plane.015Action
+  - first:
+      74: -6540434193197605087
+    second: body|Plane.016Action
+  - first:
+      74: 6565853585737505209
+    second: body|Plane.017Action
+  - first:
+      74: -7902287757497370060
+    second: body|Plane.018Action
+  - first:
+      74: -1364126520360769979
+    second: body|Plane.020Action
+  - first:
+      74: 7046808138302776254
+    second: body|Plane.021Action
+  - first:
+      74: 4430988457720107395
+    second: body|Plane.022Action
+  - first:
+      74: -4457796217266522913
+    second: body|Plane.023Action
+  - first:
+      74: -8257621314311679095
+    second: body|Plane.024Action
+  - first:
+      74: 1964116525875453078
+    second: body|Plane.025Action
+  - first:
+      74: -5814363333664370352
+    second: body|Plane.026Action
+  - first:
+      74: -6493922798361934360
+    second: body|Plane.027Action
+  - first:
+      74: 1261208776124264575
+    second: body|Plane.028Action
+  - first:
+      74: -4771061658485120804
+    second: body|Plane.029Action
+  - first:
+      74: -1106783748704472785
+    second: upper head|Plane.001Action
+  - first:
+      74: 5551059173528847676
+    second: upper head|Plane.002Action
+  - first:
+      74: -3313766669632111973
+    second: upper head|Plane.003Action
+  - first:
+      74: -4613921887624538822
+    second: upper head|Plane.004Action
+  - first:
+      74: 5549225140426632527
+    second: upper head|Plane.005Action
+  - first:
+      74: -9162359857444988708
+    second: upper head|Plane.007Action
+  - first:
+      74: -4265042536672009557
+    second: upper head|Plane.008Action
+  - first:
+      74: 8679771491464580323
+    second: upper head|Plane.009Action
+  - first:
+      74: 3783317336587766672
+    second: upper head|Plane.010Action
+  - first:
+      74: -7939842677838557465
+    second: upper head|Plane.011Action
+  - first:
+      74: 9086757647654420728
+    second: upper head|Plane.012Action
+  - first:
+      74: 37484842853257914
+    second: upper head|Plane.013Action
+  - first:
+      74: -8212379865352758134
+    second: upper head|Plane.014Action
+  - first:
+      74: 5556155576312208650
+    second: upper head|Plane.015Action
+  - first:
+      74: -8234010709814655700
+    second: upper head|Plane.016Action
+  - first:
+      74: 1594313595718765928
+    second: upper head|Plane.017Action
+  - first:
+      74: 8084802154189952800
+    second: upper head|Plane.018Action
+  - first:
+      74: -41408991291866342
+    second: upper head|Plane.020Action
+  - first:
+      74: 4190135384326621545
+    second: upper head|Plane.021Action
+  - first:
+      74: 7822105730299440031
+    second: upper head|Plane.022Action
+  - first:
+      74: -5633054544765756666
+    second: upper head|Plane.023Action
+  - first:
+      74: 2707817963645280275
+    second: upper head|Plane.024Action
+  - first:
+      74: -2178587487983614073
+    second: upper head|Plane.025Action
+  - first:
+      74: 6434371465540409697
+    second: upper head|Plane.026Action
+  - first:
+      74: 2677652513120985050
+    second: upper head|Plane.027Action
+  - first:
+      74: -6518900047895023563
+    second: upper head|Plane.028Action
+  - first:
+      74: -2407851126169157438
+    second: upper head|Plane.029Action
+  - first:
+      74: 8001806571831214512
+    second: upper head 2|Plane.001Action
+  - first:
+      74: 5782986827834737147
+    second: upper head 2|Plane.002Action
+  - first:
+      74: 3999779789672851385
+    second: upper head 2|Plane.003Action
+  - first:
+      74: 7405443804069172926
+    second: upper head 2|Plane.004Action
+  - first:
+      74: -8191661354735106621
+    second: upper head 2|Plane.005Action
+  - first:
+      74: -4091927479576211429
+    second: upper head 2|Plane.007Action
+  - first:
+      74: -4143180568180084120
+    second: upper head 2|Plane.008Action
+  - first:
+      74: 8809037430566322969
+    second: upper head 2|Plane.009Action
+  - first:
+      74: 8676803611611388814
+    second: upper head 2|Plane.010Action
+  - first:
+      74: 7398295212019077527
+    second: upper head 2|Plane.011Action
+  - first:
+      74: 5248648961045221157
+    second: upper head 2|Plane.012Action
+  - first:
+      74: -2674234797687058950
+    second: upper head 2|Plane.013Action
+  - first:
+      74: -7559919050687096012
+    second: upper head 2|Plane.014Action
+  - first:
+      74: -8415490939427212853
+    second: upper head 2|Plane.015Action
+  - first:
+      74: 1744168290294582118
+    second: upper head 2|Plane.016Action
+  - first:
+      74: 5314745496166321783
+    second: upper head 2|Plane.017Action
+  - first:
+      74: 2895665272516844455
+    second: upper head 2|Plane.018Action
+  - first:
+      74: 2904931621575734288
+    second: upper head 2|Plane.020Action
+  - first:
+      74: 1126136159573514726
+    second: upper head 2|Plane.021Action
+  - first:
+      74: -5951638823821648591
+    second: upper head 2|Plane.022Action
+  - first:
+      74: -4439761657841460994
+    second: upper head 2|Plane.023Action
+  - first:
+      74: 5901181741014859479
+    second: upper head 2|Plane.024Action
+  - first:
+      74: -5367053565101800174
+    second: upper head 2|Plane.025Action
+  - first:
+      74: -7993327117686357385
+    second: upper head 2|Plane.026Action
+  - first:
+      74: -9219836667331325358
+    second: upper head 2|Plane.027Action
+  - first:
+      74: -2858033178762482611
+    second: upper head 2|Plane.028Action
+  - first:
+      74: -997523001138572471
+    second: upper head 2|Plane.029Action
+  - first:
+      74: -8917365244615833845
+    second: base|Plane.001Action
+  - first:
+      74: -2685850931148235732
+    second: base|Plane.002Action
+  - first:
+      74: -1710922802493534906
+    second: base|Plane.003Action
+  - first:
+      74: 2019665086378725284
+    second: base|Plane.004Action
+  - first:
+      74: -5318473820984466610
+    second: base|Plane.005Action
+  - first:
+      74: 1842077044263946435
+    second: base|Plane.007Action
+  - first:
+      74: -6819524399876683884
+    second: base|Plane.008Action
+  - first:
+      74: 4664716611878460912
+    second: base|Plane.009Action
+  - first:
+      74: -462114079765666399
+    second: base|Plane.010Action
+  - first:
+      74: -5332899993884118560
+    second: base|Plane.011Action
+  - first:
+      74: -8345028628552780084
+    second: base|Plane.012Action
+  - first:
+      74: -3080522080017131548
+    second: base|Plane.013Action
+  - first:
+      74: 5413618319260788401
+    second: base|Plane.014Action
+  - first:
+      74: 3748230946856802570
+    second: base|Plane.015Action
+  - first:
+      74: -1545205327687157415
+    second: base|Plane.016Action
+  - first:
+      74: 3872162006645008156
+    second: base|Plane.017Action
+  - first:
+      74: -873002562143116072
+    second: base|Plane.018Action
+  - first:
+      74: -1417268322175734408
+    second: base|Plane.020Action
+  - first:
+      74: -5121432472924060064
+    second: base|Plane.021Action
+  - first:
+      74: -7874826381995308964
+    second: base|Plane.022Action
+  - first:
+      74: -6350632046897489654
+    second: base|Plane.023Action
+  - first:
+      74: -7222533676624531990
+    second: base|Plane.024Action
+  - first:
+      74: -8893179296562708880
+    second: base|Plane.025Action
+  - first:
+      74: 3733682930502630026
+    second: base|Plane.026Action
+  - first:
+      74: 994984419995964325
+    second: base|Plane.027Action
+  - first:
+      74: 5853982309854496117
+    second: base|Plane.028Action
+  - first:
+      74: 7186869467791918208
+    second: base|Plane.029Action
+  - first:
+      74: -9147467404198607163
+    second: EYEPIECE|Plane.001Action
+  - first:
+      74: 6722402217991173465
+    second: EYEPIECE|Plane.002Action
+  - first:
+      74: -1677447346599430348
+    second: EYEPIECE|Plane.003Action
+  - first:
+      74: -3312150189925692396
+    second: EYEPIECE|Plane.004Action
+  - first:
+      74: -3754563725366941999
+    second: EYEPIECE|Plane.005Action
+  - first:
+      74: -1097125555748933946
+    second: EYEPIECE|Plane.007Action
+  - first:
+      74: -7566697397038180628
+    second: EYEPIECE|Plane.008Action
+  - first:
+      74: -1206554343353307354
+    second: EYEPIECE|Plane.009Action
+  - first:
+      74: -2201659619230250350
+    second: EYEPIECE|Plane.010Action
+  - first:
+      74: -7069051865998199356
+    second: EYEPIECE|Plane.011Action
+  - first:
+      74: 4710815382888388326
+    second: EYEPIECE|Plane.012Action
+  - first:
+      74: 3939378971317226898
+    second: EYEPIECE|Plane.013Action
+  - first:
+      74: 3609039844690268751
+    second: EYEPIECE|Plane.014Action
+  - first:
+      74: -5096866621751535607
+    second: EYEPIECE|Plane.015Action
+  - first:
+      74: -7330222708556499591
+    second: EYEPIECE|Plane.016Action
+  - first:
+      74: 8907423864971280980
+    second: EYEPIECE|Plane.017Action
+  - first:
+      74: -1284220409058339630
+    second: EYEPIECE|Plane.018Action
+  - first:
+      74: 7945564868805687244
+    second: EYEPIECE|Plane.020Action
+  - first:
+      74: 3221454020906602567
+    second: EYEPIECE|Plane.021Action
+  - first:
+      74: -6486204828403851215
+    second: EYEPIECE|Plane.022Action
+  - first:
+      74: 323519317955669333
+    second: EYEPIECE|Plane.023Action
+  - first:
+      74: 413254143034429041
+    second: EYEPIECE|Plane.024Action
+  - first:
+      74: 7723236806437172709
+    second: EYEPIECE|Plane.025Action
+  - first:
+      74: 6048074895140970269
+    second: EYEPIECE|Plane.026Action
+  - first:
+      74: 3240696610944414262
+    second: EYEPIECE|Plane.027Action
+  - first:
+      74: -7126867682185668302
+    second: EYEPIECE|Plane.028Action
+  - first:
+      74: 4256612837322391337
+    second: EYEPIECE|Plane.029Action
+  - first:
+      74: 1752480539702347960
+    second: fine adjustment |Plane.001Action
+  - first:
+      74: -1342182070142028632
+    second: fine adjustment |Plane.002Action
+  - first:
+      74: -261476056320392693
+    second: fine adjustment |Plane.003Action
+  - first:
+      74: -1633667147744410673
+    second: fine adjustment |Plane.004Action
+  - first:
+      74: 7786849637342202002
+    second: fine adjustment |Plane.005Action
+  - first:
+      74: 3457586211127735019
+    second: fine adjustment |Plane.007Action
+  - first:
+      74: -8376091539825797987
+    second: fine adjustment |Plane.008Action
+  - first:
+      74: -5026537610692953586
+    second: fine adjustment |Plane.009Action
+  - first:
+      74: -4631084918171619210
+    second: fine adjustment |Plane.010Action
+  - first:
+      74: 9200512254709411008
+    second: fine adjustment |Plane.011Action
+  - first:
+      74: -6444189839627465735
+    second: fine adjustment |Plane.012Action
+  - first:
+      74: -8977639818608413942
+    second: fine adjustment |Plane.013Action
+  - first:
+      74: 8677568957937688256
+    second: fine adjustment |Plane.014Action
+  - first:
+      74: -718499090729510498
+    second: fine adjustment |Plane.015Action
+  - first:
+      74: -7640537729885915362
+    second: fine adjustment |Plane.016Action
+  - first:
+      74: 8581779538725703531
+    second: fine adjustment |Plane.017Action
+  - first:
+      74: 26005260582026785
+    second: fine adjustment |Plane.018Action
+  - first:
+      74: -369481990786748707
+    second: fine adjustment |Plane.020Action
+  - first:
+      74: 4748315086382179634
+    second: fine adjustment |Plane.021Action
+  - first:
+      74: 4148610980694570097
+    second: fine adjustment |Plane.022Action
+  - first:
+      74: -4101415716639315654
+    second: fine adjustment |Plane.023Action
+  - first:
+      74: -6402246575047490961
+    second: fine adjustment |Plane.024Action
+  - first:
+      74: 6585706034183634192
+    second: fine adjustment |Plane.025Action
+  - first:
+      74: 2643726917300665481
+    second: fine adjustment |Plane.026Action
+  - first:
+      74: 5572266499877850395
+    second: fine adjustment |Plane.027Action
+  - first:
+      74: -7411036311339798024
+    second: fine adjustment |Plane.028Action
+  - first:
+      74: 2214241747450070786
+    second: fine adjustment |Plane.029Action
+  - first:
+      74: -5499288838687190327
+    second: stage|Plane.001Action
+  - first:
+      74: -6738191517518634831
+    second: stage|Plane.002Action
+  - first:
+      74: 4381886725019710945
+    second: stage|Plane.003Action
+  - first:
+      74: 1593379148472819186
+    second: stage|Plane.004Action
+  - first:
+      74: 3917932183980727683
+    second: stage|Plane.005Action
+  - first:
+      74: 9185697998607944646
+    second: stage|Plane.007Action
+  - first:
+      74: 4256473164719489095
+    second: stage|Plane.008Action
+  - first:
+      74: -6637983377739621106
+    second: stage|Plane.009Action
+  - first:
+      74: 4277232668372313738
+    second: stage|Plane.010Action
+  - first:
+      74: -764363081814477663
+    second: stage|Plane.011Action
+  - first:
+      74: 2773100797152191504
+    second: stage|Plane.012Action
+  - first:
+      74: -4114101850374780475
+    second: stage|Plane.013Action
+  - first:
+      74: -8535642819598556244
+    second: stage|Plane.014Action
+  - first:
+      74: 1698144533997459395
+    second: stage|Plane.015Action
+  - first:
+      74: 3214079233961532726
+    second: stage|Plane.016Action
+  - first:
+      74: -3758852094632486092
+    second: stage|Plane.017Action
+  - first:
+      74: -3037409199235435594
+    second: stage|Plane.018Action
+  - first:
+      74: 2773229998749025281
+    second: stage|Plane.020Action
+  - first:
+      74: 2888228970438962224
+    second: stage|Plane.021Action
+  - first:
+      74: -1271765360845131118
+    second: stage|Plane.022Action
+  - first:
+      74: -6056592750371603407
+    second: stage|Plane.023Action
+  - first:
+      74: 541952502051967110
+    second: stage|Plane.024Action
+  - first:
+      74: 1548075167878577139
+    second: stage|Plane.025Action
+  - first:
+      74: 4045576977120551372
+    second: stage|Plane.026Action
+  - first:
+      74: -1416338318004380967
+    second: stage|Plane.027Action
+  - first:
+      74: 2269179836208765980
+    second: stage|Plane.028Action
+  - first:
+      74: 4705031953423927991
+    second: stage|Plane.029Action
+  - first:
+      74: 7357385829361122847
+    second: 4x lens.|Plane.001Action
+  - first:
+      74: 6440458643426237458
+    second: 4x lens.|Plane.002Action
+  - first:
+      74: 3316458582779896287
+    second: 4x lens.|Plane.003Action
+  - first:
+      74: 9144971487504446386
+    second: 4x lens.|Plane.004Action
+  - first:
+      74: 107960861432271204
+    second: 4x lens.|Plane.005Action
+  - first:
+      74: 3074497384041251367
+    second: 4x lens.|Plane.007Action
+  - first:
+      74: -4045765807244949447
+    second: 4x lens.|Plane.008Action
+  - first:
+      74: -89096518121815665
+    second: 4x lens.|Plane.009Action
+  - first:
+      74: -4436702017127241453
+    second: 4x lens.|Plane.010Action
+  - first:
+      74: 8730370908323163835
+    second: 4x lens.|Plane.011Action
+  - first:
+      74: 3526740778174083085
+    second: 4x lens.|Plane.012Action
+  - first:
+      74: 7206365309846128817
+    second: 4x lens.|Plane.013Action
+  - first:
+      74: -8426932626543546
+    second: 4x lens.|Plane.014Action
+  - first:
+      74: 3237947822377597808
+    second: 4x lens.|Plane.015Action
+  - first:
+      74: -951849802962562621
+    second: 4x lens.|Plane.016Action
+  - first:
+      74: -7617786383881035060
+    second: 4x lens.|Plane.017Action
+  - first:
+      74: -3494039457818053134
+    second: 4x lens.|Plane.018Action
+  - first:
+      74: 6127561648299127776
+    second: 4x lens.|Plane.020Action
+  - first:
+      74: -8285463132305851276
+    second: 4x lens.|Plane.021Action
+  - first:
+      74: -7836903878253844833
+    second: 4x lens.|Plane.022Action
+  - first:
+      74: 9077490398030994626
+    second: 4x lens.|Plane.023Action
+  - first:
+      74: -3834454238787923000
+    second: 4x lens.|Plane.024Action
+  - first:
+      74: -9196619836351280417
+    second: 4x lens.|Plane.025Action
+  - first:
+      74: -4451438775556224035
+    second: 4x lens.|Plane.026Action
+  - first:
+      74: -6954438977718829239
+    second: 4x lens.|Plane.027Action
+  - first:
+      74: 6104095157279104160
+    second: 4x lens.|Plane.028Action
+  - first:
+      74: 8605596814837111514
+    second: 4x lens.|Plane.029Action
+  - first:
+      74: -971002721237074289
+    second: Plane.010|Plane.001Action
+  - first:
+      74: -7619481090316998720
+    second: Plane.010|Plane.002Action
+  - first:
+      74: -185388016852461370
+    second: Plane.010|Plane.003Action
+  - first:
+      74: 3319826588263088806
+    second: Plane.010|Plane.004Action
+  - first:
+      74: -763813568892847184
+    second: Plane.010|Plane.005Action
+  - first:
+      74: -6794968098604323920
+    second: Plane.010|Plane.007Action
+  - first:
+      74: 3139712140159805253
+    second: Plane.010|Plane.008Action
+  - first:
+      74: -7878653113187640689
+    second: Plane.010|Plane.009Action
+  - first:
+      74: 1137494326926220019
+    second: Plane.010|Plane.010Action
+  - first:
+      74: 2151541841478492751
+    second: Plane.010|Plane.011Action
+  - first:
+      74: -1310425013905089838
+    second: Plane.010|Plane.012Action
+  - first:
+      74: -3237814112932458984
+    second: Plane.010|Plane.013Action
+  - first:
+      74: -2733577420965327424
+    second: Plane.010|Plane.014Action
+  - first:
+      74: 2370650956049375252
+    second: Plane.010|Plane.015Action
+  - first:
+      74: -3066275478076593685
+    second: Plane.010|Plane.016Action
+  - first:
+      74: 6596308452092653918
+    second: Plane.010|Plane.017Action
+  - first:
+      74: 7863547853678257231
+    second: Plane.010|Plane.018Action
+  - first:
+      74: -8064606706161019158
+    second: Plane.010|Plane.020Action
+  - first:
+      74: -7185820109558750154
+    second: Plane.010|Plane.021Action
+  - first:
+      74: -6136210682405356155
+    second: Plane.010|Plane.022Action
+  - first:
+      74: -7036643141886418770
+    second: Plane.010|Plane.023Action
+  - first:
+      74: 3944325974011165000
+    second: Plane.010|Plane.024Action
+  - first:
+      74: -5407058133393166116
+    second: Plane.010|Plane.025Action
+  - first:
+      74: 8114489570912315978
+    second: Plane.010|Plane.026Action
+  - first:
+      74: 329671510483029393
+    second: Plane.010|Plane.027Action
+  - first:
+      74: -9056527543489522767
+    second: Plane.010|Plane.028Action
+  - first:
+      74: -2246211421098259743
+    second: Plane.010|Plane.029Action
+  - first:
+      74: 3536794727963834011
+    second: 10x lens|Plane.001Action
+  - first:
+      74: -9078271423481212939
+    second: 10x lens|Plane.002Action
+  - first:
+      74: 7982001389832115797
+    second: 10x lens|Plane.003Action
+  - first:
+      74: 8735048304356096891
+    second: 10x lens|Plane.004Action
+  - first:
+      74: -2124167948666460776
+    second: 10x lens|Plane.005Action
+  - first:
+      74: 2786990978348525379
+    second: 10x lens|Plane.007Action
+  - first:
+      74: -5871374779518470748
+    second: 10x lens|Plane.008Action
+  - first:
+      74: -7937737237021835290
+    second: 10x lens|Plane.009Action
+  - first:
+      74: 3600604544910238467
+    second: 10x lens|Plane.010Action
+  - first:
+      74: 4842941322809540163
+    second: 10x lens|Plane.011Action
+  - first:
+      74: -4833214890257247351
+    second: 10x lens|Plane.012Action
+  - first:
+      74: 5109455659594316341
+    second: 10x lens|Plane.013Action
+  - first:
+      74: -1600409282534150605
+    second: 10x lens|Plane.014Action
+  - first:
+      74: -8795360581624531872
+    second: 10x lens|Plane.015Action
+  - first:
+      74: 7374945961188366467
+    second: 10x lens|Plane.016Action
+  - first:
+      74: 5978621586623000607
+    second: 10x lens|Plane.017Action
+  - first:
+      74: -3454369680484066028
+    second: 10x lens|Plane.018Action
+  - first:
+      74: -6496318972028336125
+    second: 10x lens|Plane.020Action
+  - first:
+      74: -251783713975247396
+    second: 10x lens|Plane.021Action
+  - first:
+      74: 1719216888729647035
+    second: 10x lens|Plane.022Action
+  - first:
+      74: 5428497580751107715
+    second: 10x lens|Plane.023Action
+  - first:
+      74: -8910756949523557653
+    second: 10x lens|Plane.024Action
+  - first:
+      74: 1156565352995694071
+    second: 10x lens|Plane.025Action
+  - first:
+      74: 8271267339646580362
+    second: 10x lens|Plane.026Action
+  - first:
+      74: 8924017405383508190
+    second: 10x lens|Plane.027Action
+  - first:
+      74: 4350470121181521089
+    second: 10x lens|Plane.028Action
+  - first:
+      74: 8454610743755792081
+    second: 10x lens|Plane.029Action
+  - first:
+      74: 4279400054211132028
+    second: Plane.012|Plane.001Action
+  - first:
+      74: 1857274889372040930
+    second: Plane.012|Plane.002Action
+  - first:
+      74: -8656167378029676990
+    second: Plane.012|Plane.003Action
+  - first:
+      74: 6681435429113616521
+    second: Plane.012|Plane.004Action
+  - first:
+      74: 1470560940460097824
+    second: Plane.012|Plane.005Action
+  - first:
+      74: -1926370455765102164
+    second: Plane.012|Plane.007Action
+  - first:
+      74: 3794242993767495963
+    second: Plane.012|Plane.008Action
+  - first:
+      74: 7067277476617195091
+    second: Plane.012|Plane.009Action
+  - first:
+      74: -7270308665197928057
+    second: Plane.012|Plane.010Action
+  - first:
+      74: -7366777287538836402
+    second: Plane.012|Plane.011Action
+  - first:
+      74: -4263003383711998046
+    second: Plane.012|Plane.012Action
+  - first:
+      74: -1389994265141815885
+    second: Plane.012|Plane.013Action
+  - first:
+      74: 1908022902413827312
+    second: Plane.012|Plane.014Action
+  - first:
+      74: -3075660682993387438
+    second: Plane.012|Plane.015Action
+  - first:
+      74: 1926550437209252567
+    second: Plane.012|Plane.016Action
+  - first:
+      74: -9215175422075931302
+    second: Plane.012|Plane.017Action
+  - first:
+      74: -8491937070201043533
+    second: Plane.012|Plane.018Action
+  - first:
+      74: -362569901418362758
+    second: Plane.012|Plane.020Action
+  - first:
+      74: 4055870510904181614
+    second: Plane.012|Plane.021Action
+  - first:
+      74: 1969739105663637041
+    second: Plane.012|Plane.022Action
+  - first:
+      74: 745802986394789159
+    second: Plane.012|Plane.023Action
+  - first:
+      74: -598534112991789775
+    second: Plane.012|Plane.024Action
+  - first:
+      74: 7002660243075834855
+    second: Plane.012|Plane.025Action
+  - first:
+      74: 1183462939077097614
+    second: Plane.012|Plane.026Action
+  - first:
+      74: -8314272011531216807
+    second: Plane.012|Plane.027Action
+  - first:
+      74: -1824209854162102007
+    second: Plane.012|Plane.028Action
+  - first:
+      74: -8947658385737676991
+    second: Plane.012|Plane.029Action
+  - first:
+      74: 6595028993308294873
+    second: 100Xlens|Plane.001Action
+  - first:
+      74: 2568740886601932524
+    second: 100Xlens|Plane.002Action
+  - first:
+      74: 6046468364380888462
+    second: 100Xlens|Plane.003Action
+  - first:
+      74: -522605030430746668
+    second: 100Xlens|Plane.004Action
+  - first:
+      74: -5912196493051687536
+    second: 100Xlens|Plane.005Action
+  - first:
+      74: 2121845332930961953
+    second: 100Xlens|Plane.007Action
+  - first:
+      74: -7799068461920727808
+    second: 100Xlens|Plane.008Action
+  - first:
+      74: -2030306153163017158
+    second: 100Xlens|Plane.009Action
+  - first:
+      74: 2978627956442089021
+    second: 100Xlens|Plane.010Action
+  - first:
+      74: -7814389625729164021
+    second: 100Xlens|Plane.011Action
+  - first:
+      74: -4841448693175207044
+    second: 100Xlens|Plane.012Action
+  - first:
+      74: -5279346751228265393
+    second: 100Xlens|Plane.013Action
+  - first:
+      74: -4277068124548847479
+    second: 100Xlens|Plane.014Action
+  - first:
+      74: 4669874496586308314
+    second: 100Xlens|Plane.015Action
+  - first:
+      74: -8932300786920826603
+    second: 100Xlens|Plane.016Action
+  - first:
+      74: -1515201292359469598
+    second: 100Xlens|Plane.017Action
+  - first:
+      74: 6244247286831707998
+    second: 100Xlens|Plane.018Action
+  - first:
+      74: -731946952771873131
+    second: 100Xlens|Plane.020Action
+  - first:
+      74: 3208718201481939058
+    second: 100Xlens|Plane.021Action
+  - first:
+      74: -3715687438661940080
+    second: 100Xlens|Plane.022Action
+  - first:
+      74: -8405237920078757917
+    second: 100Xlens|Plane.023Action
+  - first:
+      74: -651807685082584943
+    second: 100Xlens|Plane.024Action
+  - first:
+      74: -81065877547018755
+    second: 100Xlens|Plane.025Action
+  - first:
+      74: 4485982454370250028
+    second: 100Xlens|Plane.026Action
+  - first:
+      74: 1236680293824474832
+    second: 100Xlens|Plane.027Action
+  - first:
+      74: -5115315546686824877
+    second: 100Xlens|Plane.028Action
+  - first:
+      74: -2055433732749799104
+    second: 100Xlens|Plane.029Action
+  - first:
+      74: -6766786224093925815
+    second: Plane.014|Plane.001Action
+  - first:
+      74: 5209282969500000857
+    second: Plane.014|Plane.002Action
+  - first:
+      74: 2659411225524302647
+    second: Plane.014|Plane.003Action
+  - first:
+      74: -678327102730060993
+    second: Plane.014|Plane.004Action
+  - first:
+      74: -2727958357342773920
+    second: Plane.014|Plane.005Action
+  - first:
+      74: -2779959031420111549
+    second: Plane.014|Plane.007Action
+  - first:
+      74: 4046822383281930576
+    second: Plane.014|Plane.008Action
+  - first:
+      74: 5435907340505210431
+    second: Plane.014|Plane.009Action
+  - first:
+      74: 7246963698157912994
+    second: Plane.014|Plane.010Action
+  - first:
+      74: 2486331681779037533
+    second: Plane.014|Plane.011Action
+  - first:
+      74: -7941930416071243858
+    second: Plane.014|Plane.012Action
+  - first:
+      74: 2890818534696872074
+    second: Plane.014|Plane.013Action
+  - first:
+      74: 5177682573092499379
+    second: Plane.014|Plane.014Action
+  - first:
+      74: 7189493139434818492
+    second: Plane.014|Plane.015Action
+  - first:
+      74: 2470936866847695577
+    second: Plane.014|Plane.016Action
+  - first:
+      74: 1321086184301397204
+    second: Plane.014|Plane.017Action
+  - first:
+      74: -4146588064789315719
+    second: Plane.014|Plane.018Action
+  - first:
+      74: 5257200308100296184
+    second: Plane.014|Plane.020Action
+  - first:
+      74: -8996510921654294928
+    second: Plane.014|Plane.021Action
+  - first:
+      74: 43014196483950777
+    second: Plane.014|Plane.022Action
+  - first:
+      74: 5866089072247608295
+    second: Plane.014|Plane.023Action
+  - first:
+      74: -821331357341092956
+    second: Plane.014|Plane.024Action
+  - first:
+      74: 7887426715346812962
+    second: Plane.014|Plane.025Action
+  - first:
+      74: 6167217433725980630
+    second: Plane.014|Plane.026Action
+  - first:
+      74: -8377107225372926323
+    second: Plane.014|Plane.027Action
+  - first:
+      74: -4138542546086797718
+    second: Plane.014|Plane.028Action
+  - first:
+      74: -6015555218533145933
+    second: Plane.014|Plane.029Action
+  - first:
+      74: 3493601109327518624
+    second: 40x lens|Plane.001Action
+  - first:
+      74: 1092103991290595836
+    second: 40x lens|Plane.002Action
+  - first:
+      74: 7798300244952797731
+    second: 40x lens|Plane.003Action
+  - first:
+      74: 2221836673387279971
+    second: 40x lens|Plane.004Action
+  - first:
+      74: 8026985097422843069
+    second: 40x lens|Plane.005Action
+  - first:
+      74: -6657308841095205398
+    second: 40x lens|Plane.007Action
+  - first:
+      74: -730225996213076948
+    second: 40x lens|Plane.008Action
+  - first:
+      74: -3187249162193722560
+    second: 40x lens|Plane.009Action
+  - first:
+      74: 1574362986841082524
+    second: 40x lens|Plane.010Action
+  - first:
+      74: 2257318931421598810
+    second: 40x lens|Plane.011Action
+  - first:
+      74: 1162443437239271808
+    second: 40x lens|Plane.012Action
+  - first:
+      74: 6532204868882891585
+    second: 40x lens|Plane.013Action
+  - first:
+      74: 2612042886232755035
+    second: 40x lens|Plane.014Action
+  - first:
+      74: 7682276462627868529
+    second: 40x lens|Plane.015Action
+  - first:
+      74: 5126517381780161844
+    second: 40x lens|Plane.016Action
+  - first:
+      74: 3533457464483993874
+    second: 40x lens|Plane.017Action
+  - first:
+      74: -3125485905623656803
+    second: 40x lens|Plane.018Action
+  - first:
+      74: -6756496540421465803
+    second: 40x lens|Plane.020Action
+  - first:
+      74: 4598522729290418884
+    second: 40x lens|Plane.021Action
+  - first:
+      74: 7628029860081001088
+    second: 40x lens|Plane.022Action
+  - first:
+      74: 9041657866139553332
+    second: 40x lens|Plane.023Action
+  - first:
+      74: -4861331914857741135
+    second: 40x lens|Plane.024Action
+  - first:
+      74: -7042906844227926761
+    second: 40x lens|Plane.025Action
+  - first:
+      74: -8986820587724061221
+    second: 40x lens|Plane.026Action
+  - first:
+      74: 1322104881670492369
+    second: 40x lens|Plane.027Action
+  - first:
+      74: -8344696820391339833
+    second: 40x lens|Plane.028Action
+  - first:
+      74: -5126219624743748532
+    second: 40x lens|Plane.029Action
+  - first:
+      74: 5585884311677560375
+    second: rotating nosepiece|Plane.001Action
+  - first:
+      74: -5802522810912343747
+    second: rotating nosepiece|Plane.002Action
+  - first:
+      74: -1377489481588404286
+    second: rotating nosepiece|Plane.003Action
+  - first:
+      74: 2699255308789573588
+    second: rotating nosepiece|Plane.004Action
+  - first:
+      74: 6878445015832854090
+    second: rotating nosepiece|Plane.005Action
+  - first:
+      74: -5001709631871463939
+    second: rotating nosepiece|Plane.007Action
+  - first:
+      74: 106116008668296809
+    second: rotating nosepiece|Plane.008Action
+  - first:
+      74: -7821616919319740712
+    second: rotating nosepiece|Plane.009Action
+  - first:
+      74: -4869714395133642245
+    second: rotating nosepiece|Plane.010Action
+  - first:
+      74: -5600333950334387404
+    second: rotating nosepiece|Plane.011Action
+  - first:
+      74: -4923791565072529194
+    second: rotating nosepiece|Plane.012Action
+  - first:
+      74: 901162807772037275
+    second: rotating nosepiece|Plane.013Action
+  - first:
+      74: 2209901345577280367
+    second: rotating nosepiece|Plane.014Action
+  - first:
+      74: 5515152153127191796
+    second: rotating nosepiece|Plane.015Action
+  - first:
+      74: 8698488175461288501
+    second: rotating nosepiece|Plane.016Action
+  - first:
+      74: -4400658013908866135
+    second: rotating nosepiece|Plane.017Action
+  - first:
+      74: 3558149709633016724
+    second: rotating nosepiece|Plane.018Action
+  - first:
+      74: 363560149540047238
+    second: rotating nosepiece|Plane.020Action
+  - first:
+      74: 8699643085488360273
+    second: rotating nosepiece|Plane.021Action
+  - first:
+      74: 6626798405969369336
+    second: rotating nosepiece|Plane.022Action
+  - first:
+      74: 6258278595586693567
+    second: rotating nosepiece|Plane.023Action
+  - first:
+      74: -453845451326446708
+    second: rotating nosepiece|Plane.024Action
+  - first:
+      74: -9116727305712365212
+    second: rotating nosepiece|Plane.025Action
+  - first:
+      74: -4391558649281687778
+    second: rotating nosepiece|Plane.026Action
+  - first:
+      74: 5672016749871172640
+    second: rotating nosepiece|Plane.027Action
+  - first:
+      74: -4734959519155420576
+    second: rotating nosepiece|Plane.028Action
+  - first:
+      74: -7542581640176246800
+    second: rotating nosepiece|Plane.029Action
+  - first:
+      74: -7888252653662071484
+    second: illuminator.001|Plane.001Action
+  - first:
+      74: -4317388077490189479
+    second: illuminator.001|Plane.002Action
+  - first:
+      74: 6071776216173824628
+    second: illuminator.001|Plane.003Action
+  - first:
+      74: -3169534453508852632
+    second: illuminator.001|Plane.004Action
+  - first:
+      74: -5042487513706602417
+    second: illuminator.001|Plane.005Action
+  - first:
+      74: -4168456925548844458
+    second: illuminator.001|Plane.007Action
+  - first:
+      74: 3205203844273787110
+    second: illuminator.001|Plane.008Action
+  - first:
+      74: 1294987289118536069
+    second: illuminator.001|Plane.009Action
+  - first:
+      74: 6563262053418149430
+    second: illuminator.001|Plane.010Action
+  - first:
+      74: -7304015464272355470
+    second: illuminator.001|Plane.011Action
+  - first:
+      74: 8404466017624730913
+    second: illuminator.001|Plane.012Action
+  - first:
+      74: -6602774689914862423
+    second: illuminator.001|Plane.013Action
+  - first:
+      74: -3387870048211322920
+    second: illuminator.001|Plane.014Action
+  - first:
+      74: 3684326218201827812
+    second: illuminator.001|Plane.015Action
+  - first:
+      74: -7893803758015334238
+    second: illuminator.001|Plane.016Action
+  - first:
+      74: -4979578317318595020
+    second: illuminator.001|Plane.017Action
+  - first:
+      74: 323606902791810444
+    second: illuminator.001|Plane.018Action
+  - first:
+      74: -6052489442836729539
+    second: illuminator.001|Plane.020Action
+  - first:
+      74: -3864935114368911455
+    second: illuminator.001|Plane.021Action
+  - first:
+      74: -3676487976522696709
+    second: illuminator.001|Plane.022Action
+  - first:
+      74: -8537354315637554890
+    second: illuminator.001|Plane.023Action
+  - first:
+      74: 2949750632135035219
+    second: illuminator.001|Plane.024Action
+  - first:
+      74: 7035725129440381990
+    second: illuminator.001|Plane.025Action
+  - first:
+      74: -8194717624413895287
+    second: illuminator.001|Plane.026Action
+  - first:
+      74: 5461051734563970719
+    second: illuminator.001|Plane.027Action
+  - first:
+      74: 551387086894705485
+    second: illuminator.001|Plane.028Action
+  - first:
+      74: -937594602829609883
+    second: illuminator.001|Plane.029Action
+  - first:
+      74: -3107806361358972837
+    second: diaphragm|Plane.001Action
+  - first:
+      74: 7091038836985983105
+    second: diaphragm|Plane.002Action
+  - first:
+      74: -4077636676323623484
+    second: diaphragm|Plane.003Action
+  - first:
+      74: 3835112309473442209
+    second: diaphragm|Plane.004Action
+  - first:
+      74: -3995763429869368045
+    second: diaphragm|Plane.005Action
+  - first:
+      74: 439001628821810445
+    second: diaphragm|Plane.007Action
+  - first:
+      74: -3669683420794207480
+    second: diaphragm|Plane.008Action
+  - first:
+      74: 8635232993241783569
+    second: diaphragm|Plane.009Action
+  - first:
+      74: 5357752076350904307
+    second: diaphragm|Plane.010Action
+  - first:
+      74: -7323317399506059485
+    second: diaphragm|Plane.011Action
+  - first:
+      74: 4426984962901121550
+    second: diaphragm|Plane.012Action
+  - first:
+      74: 3875933869597851306
+    second: diaphragm|Plane.013Action
+  - first:
+      74: 5537587895927148061
+    second: diaphragm|Plane.014Action
+  - first:
+      74: -1292764204787445877
+    second: diaphragm|Plane.015Action
+  - first:
+      74: 481089175370658898
+    second: diaphragm|Plane.016Action
+  - first:
+      74: 2326489977774713171
+    second: diaphragm|Plane.017Action
+  - first:
+      74: -2131826798765457209
+    second: diaphragm|Plane.018Action
+  - first:
+      74: 5708749322464046944
+    second: diaphragm|Plane.020Action
+  - first:
+      74: 6168303929971585034
+    second: diaphragm|Plane.021Action
+  - first:
+      74: -8655124554880126784
+    second: diaphragm|Plane.022Action
+  - first:
+      74: 71117986010087366
+    second: diaphragm|Plane.023Action
+  - first:
+      74: 7241445686234216414
+    second: diaphragm|Plane.024Action
+  - first:
+      74: 7887651785559107599
+    second: diaphragm|Plane.025Action
+  - first:
+      74: 7606795032155712820
+    second: diaphragm|Plane.026Action
+  - first:
+      74: 2576263609134847675
+    second: diaphragm|Plane.027Action
+  - first:
+      74: -9162845015149305847
+    second: diaphragm|Plane.028Action
+  - first:
+      74: 8256115950712504244
+    second: diaphragm|Plane.029Action
+  - first:
+      74: 3645172069114001519
+    second: clip1|Plane.001Action
+  - first:
+      74: -1472647697981762740
+    second: clip1|Plane.002Action
+  - first:
+      74: 1105901639437902010
+    second: clip1|Plane.003Action
+  - first:
+      74: -4321562176662605911
+    second: clip1|Plane.004Action
+  - first:
+      74: -6598707674523397024
+    second: clip1|Plane.005Action
+  - first:
+      74: 5404967014154052650
+    second: clip1|Plane.007Action
+  - first:
+      74: -444334608317978956
+    second: clip1|Plane.008Action
+  - first:
+      74: -4935167016200281476
+    second: clip1|Plane.009Action
+  - first:
+      74: -829902888309051672
+    second: clip1|Plane.010Action
+  - first:
+      74: -5298657252591083197
+    second: clip1|Plane.011Action
+  - first:
+      74: 5932735019031314282
+    second: clip1|Plane.012Action
+  - first:
+      74: -3973282105281713209
+    second: clip1|Plane.013Action
+  - first:
+      74: -3821480777571047026
+    second: clip1|Plane.014Action
+  - first:
+      74: -270945175919404742
+    second: clip1|Plane.015Action
+  - first:
+      74: 7777602941794746905
+    second: clip1|Plane.016Action
+  - first:
+      74: -8639543580159292550
+    second: clip1|Plane.017Action
+  - first:
+      74: -7038902093097727862
+    second: clip1|Plane.018Action
+  - first:
+      74: -817174519165409078
+    second: clip1|Plane.020Action
+  - first:
+      74: -5895310173833293837
+    second: clip1|Plane.021Action
+  - first:
+      74: -5390520554488563792
+    second: clip1|Plane.022Action
+  - first:
+      74: -2097156674622224277
+    second: clip1|Plane.023Action
+  - first:
+      74: 9074285747006125418
+    second: clip1|Plane.024Action
+  - first:
+      74: -4547647360187225672
+    second: clip1|Plane.025Action
+  - first:
+      74: -8907248917541844693
+    second: clip1|Plane.026Action
+  - first:
+      74: 8127727514514099295
+    second: clip1|Plane.027Action
+  - first:
+      74: 6735739337684313764
+    second: clip1|Plane.028Action
+  - first:
+      74: -7524202005952589939
+    second: clip1|Plane.029Action
+  - first:
+      74: -4883799861266995235
+    second: clip 2|Plane.001Action
+  - first:
+      74: 7860885785982898936
+    second: clip 2|Plane.002Action
+  - first:
+      74: 8833591739201596031
+    second: clip 2|Plane.003Action
+  - first:
+      74: 4578044499560534089
+    second: clip 2|Plane.004Action
+  - first:
+      74: 5281593550460802847
+    second: clip 2|Plane.005Action
+  - first:
+      74: -1469095315522971256
+    second: clip 2|Plane.007Action
+  - first:
+      74: -8327718383436981456
+    second: clip 2|Plane.008Action
+  - first:
+      74: -690141096025883473
+    second: clip 2|Plane.009Action
+  - first:
+      74: 3022145237372747005
+    second: clip 2|Plane.010Action
+  - first:
+      74: 8083711068685589151
+    second: clip 2|Plane.011Action
+  - first:
+      74: -2232917542102261594
+    second: clip 2|Plane.012Action
+  - first:
+      74: -5451100635986667510
+    second: clip 2|Plane.013Action
+  - first:
+      74: -8874269555263917267
+    second: clip 2|Plane.014Action
+  - first:
+      74: 4003889877513809814
+    second: clip 2|Plane.015Action
+  - first:
+      74: 7222930705128468629
+    second: clip 2|Plane.016Action
+  - first:
+      74: -4025598025474656278
+    second: clip 2|Plane.017Action
+  - first:
+      74: -4631625209155986088
+    second: clip 2|Plane.018Action
+  - first:
+      74: -7195425688360485848
+    second: clip 2|Plane.020Action
+  - first:
+      74: -7896224324368325604
+    second: clip 2|Plane.021Action
+  - first:
+      74: 1914885968034360249
+    second: clip 2|Plane.022Action
+  - first:
+      74: -717470975893208576
+    second: clip 2|Plane.023Action
+  - first:
+      74: -2846930824770495311
+    second: clip 2|Plane.024Action
+  - first:
+      74: 1218002646567099820
+    second: clip 2|Plane.025Action
+  - first:
+      74: -8682492595206314552
+    second: clip 2|Plane.026Action
+  - first:
+      74: -88465200790197032
+    second: clip 2|Plane.027Action
+  - first:
+      74: 5484270924495003587
+    second: clip 2|Plane.028Action
+  - first:
+      74: -6300848610501576954
+    second: clip 2|Plane.029Action
+  - first:
+      74: -5898734908893885598
+    second: clip 3|Plane.001Action
+  - first:
+      74: -6559995796720934175
+    second: clip 3|Plane.002Action
+  - first:
+      74: 6311733996524706461
+    second: clip 3|Plane.003Action
+  - first:
+      74: 5127297424846618811
+    second: clip 3|Plane.004Action
+  - first:
+      74: 9149117634188099378
+    second: clip 3|Plane.005Action
+  - first:
+      74: -4367723256719081859
+    second: clip 3|Plane.007Action
+  - first:
+      74: 6572981598278024348
+    second: clip 3|Plane.008Action
+  - first:
+      74: -2032873262130217762
+    second: clip 3|Plane.009Action
+  - first:
+      74: 7572541900478658395
+    second: clip 3|Plane.010Action
+  - first:
+      74: 1516604160011707664
+    second: clip 3|Plane.011Action
+  - first:
+      74: -297665447294155387
+    second: clip 3|Plane.012Action
+  - first:
+      74: -6322623232845803503
+    second: clip 3|Plane.013Action
+  - first:
+      74: -8114667479881216493
+    second: clip 3|Plane.014Action
+  - first:
+      74: -6042829027309199971
+    second: clip 3|Plane.015Action
+  - first:
+      74: 1100274702866199807
+    second: clip 3|Plane.016Action
+  - first:
+      74: 5785884461349397954
+    second: clip 3|Plane.017Action
+  - first:
+      74: -4592125686826932281
+    second: clip 3|Plane.018Action
+  - first:
+      74: -8836534738488860289
+    second: clip 3|Plane.020Action
+  - first:
+      74: -8007899017167742583
+    second: clip 3|Plane.021Action
+  - first:
+      74: 4520677747928675536
+    second: clip 3|Plane.022Action
+  - first:
+      74: -525316766250469837
+    second: clip 3|Plane.023Action
+  - first:
+      74: -8379840774590069763
+    second: clip 3|Plane.024Action
+  - first:
+      74: -7741374081234770179
+    second: clip 3|Plane.025Action
+  - first:
+      74: -2635054159165992380
+    second: clip 3|Plane.026Action
+  - first:
+      74: -3631432412559024185
+    second: clip 3|Plane.027Action
+  - first:
+      74: -6511344630971050772
+    second: clip 3|Plane.028Action
+  - first:
+      74: -1946544800553620669
+    second: clip 3|Plane.029Action
+  - first:
+      74: -2728881572289744872
+    second: clip 4|Plane.001Action
+  - first:
+      74: 7052226564143981929
+    second: clip 4|Plane.002Action
+  - first:
+      74: -4225733925779123108
+    second: clip 4|Plane.003Action
+  - first:
+      74: -7714091689803452367
+    second: clip 4|Plane.004Action
+  - first:
+      74: -545704566974305573
+    second: clip 4|Plane.005Action
+  - first:
+      74: 2114199449431032955
+    second: clip 4|Plane.007Action
+  - first:
+      74: -3639936786843698379
+    second: clip 4|Plane.008Action
+  - first:
+      74: -5164889937730372970
+    second: clip 4|Plane.009Action
+  - first:
+      74: -631879671008115983
+    second: clip 4|Plane.010Action
+  - first:
+      74: 7698556212126543119
+    second: clip 4|Plane.011Action
+  - first:
+      74: -5087444305516219199
+    second: clip 4|Plane.012Action
+  - first:
+      74: 3741131869474215250
+    second: clip 4|Plane.013Action
+  - first:
+      74: 838710983533725754
+    second: clip 4|Plane.014Action
+  - first:
+      74: -5847212857381474805
+    second: clip 4|Plane.015Action
+  - first:
+      74: 28294695369673802
+    second: clip 4|Plane.016Action
+  - first:
+      74: 6310158833189372886
+    second: clip 4|Plane.017Action
+  - first:
+      74: 1737934532191367789
+    second: clip 4|Plane.018Action
+  - first:
+      74: 3516929106856857742
+    second: clip 4|Plane.020Action
+  - first:
+      74: -3584007594201566084
+    second: clip 4|Plane.021Action
+  - first:
+      74: -4959858875084484927
+    second: clip 4|Plane.022Action
+  - first:
+      74: -600911923032235654
+    second: clip 4|Plane.023Action
+  - first:
+      74: -97508930510309874
+    second: clip 4|Plane.024Action
+  - first:
+      74: -1814330351252496432
+    second: clip 4|Plane.025Action
+  - first:
+      74: 3897734408868615969
+    second: clip 4|Plane.026Action
+  - first:
+      74: -4642917336082703606
+    second: clip 4|Plane.027Action
+  - first:
+      74: -4330698538530411578
+    second: clip 4|Plane.028Action
+  - first:
+      74: -8842368167595716370
+    second: clip 4|Plane.029Action
+  - first:
+      74: -2056048437677535826
+    second: Plane.024|Plane.001Action
+  - first:
+      74: -275747333375990458
+    second: Plane.024|Plane.002Action
+  - first:
+      74: 1962501991397822557
+    second: Plane.024|Plane.003Action
+  - first:
+      74: -6357952427007192365
+    second: Plane.024|Plane.004Action
+  - first:
+      74: 5085087061116569139
+    second: Plane.024|Plane.005Action
+  - first:
+      74: 8203462746410819256
+    second: Plane.024|Plane.007Action
+  - first:
+      74: 3378265052506631584
+    second: Plane.024|Plane.008Action
+  - first:
+      74: 3086913075874910429
+    second: Plane.024|Plane.009Action
+  - first:
+      74: -1985335763986357920
+    second: Plane.024|Plane.010Action
+  - first:
+      74: -8577505763809066302
+    second: Plane.024|Plane.011Action
+  - first:
+      74: -8256341548984622173
+    second: Plane.024|Plane.012Action
+  - first:
+      74: 4228683439246594201
+    second: Plane.024|Plane.013Action
+  - first:
+      74: -2095055831787933059
+    second: Plane.024|Plane.014Action
+  - first:
+      74: 94329746414774451
+    second: Plane.024|Plane.015Action
+  - first:
+      74: -1762410765944418007
+    second: Plane.024|Plane.016Action
+  - first:
+      74: 4725112256210676807
+    second: Plane.024|Plane.017Action
+  - first:
+      74: -3217086917452763447
+    second: Plane.024|Plane.018Action
+  - first:
+      74: -803626425805846859
+    second: Plane.024|Plane.020Action
+  - first:
+      74: -4843068298445738776
+    second: Plane.024|Plane.021Action
+  - first:
+      74: 9131066016380111749
+    second: Plane.024|Plane.022Action
+  - first:
+      74: -4303534244051385863
+    second: Plane.024|Plane.023Action
+  - first:
+      74: -4957921430281375830
+    second: Plane.024|Plane.024Action
+  - first:
+      74: 6972753113819991465
+    second: Plane.024|Plane.025Action
+  - first:
+      74: -520663938264058768
+    second: Plane.024|Plane.026Action
+  - first:
+      74: 7401819609142402870
+    second: Plane.024|Plane.027Action
+  - first:
+      74: -642353847652062475
+    second: Plane.024|Plane.028Action
+  - first:
+      74: 5288598355832060070
+    second: Plane.024|Plane.029Action
+  - first:
+      74: -8128612431017191368
+    second: Plane.025|Plane.001Action
+  - first:
+      74: 4959496198603236873
+    second: Plane.025|Plane.002Action
+  - first:
+      74: 5717760579031796172
+    second: Plane.025|Plane.003Action
+  - first:
+      74: -6866795285146381093
+    second: Plane.025|Plane.004Action
+  - first:
+      74: 1918824262067227386
+    second: Plane.025|Plane.005Action
+  - first:
+      74: 6859648297427981418
+    second: Plane.025|Plane.007Action
+  - first:
+      74: 5317075693670465803
+    second: Plane.025|Plane.008Action
+  - first:
+      74: 834370716677646261
+    second: Plane.025|Plane.009Action
+  - first:
+      74: 2098311892283159391
+    second: Plane.025|Plane.010Action
+  - first:
+      74: -6323385785951012962
+    second: Plane.025|Plane.011Action
+  - first:
+      74: -8148283983482657575
+    second: Plane.025|Plane.012Action
+  - first:
+      74: -2934238965671226237
+    second: Plane.025|Plane.013Action
+  - first:
+      74: 3101449409087907054
+    second: Plane.025|Plane.014Action
+  - first:
+      74: -7402053221231945574
+    second: Plane.025|Plane.015Action
+  - first:
+      74: -3026614947894494849
+    second: Plane.025|Plane.016Action
+  - first:
+      74: 2352798743409086291
+    second: Plane.025|Plane.017Action
+  - first:
+      74: 976552743520271519
+    second: Plane.025|Plane.018Action
+  - first:
+      74: 894325374911295327
+    second: Plane.025|Plane.020Action
+  - first:
+      74: -76488015461426544
+    second: Plane.025|Plane.021Action
+  - first:
+      74: -4885530246050483276
+    second: Plane.025|Plane.022Action
+  - first:
+      74: -2274991738439659909
+    second: Plane.025|Plane.023Action
+  - first:
+      74: 8798987519709907935
+    second: Plane.025|Plane.024Action
+  - first:
+      74: -8619685469072918800
+    second: Plane.025|Plane.025Action
+  - first:
+      74: -2086708592376794844
+    second: Plane.025|Plane.026Action
+  - first:
+      74: 7273717104147580015
+    second: Plane.025|Plane.027Action
+  - first:
+      74: -6997553830577400638
+    second: Plane.025|Plane.028Action
+  - first:
+      74: -7886804480166802314
+    second: Plane.025|Plane.029Action
+  - first:
+      74: 2367909484501173544
+    second: Plane.026|Plane.001Action
+  - first:
+      74: -1296806034273067577
+    second: Plane.026|Plane.002Action
+  - first:
+      74: -7576174919186957
+    second: Plane.026|Plane.003Action
+  - first:
+      74: 5481669454299380216
+    second: Plane.026|Plane.004Action
+  - first:
+      74: 6371466002717172499
+    second: Plane.026|Plane.005Action
+  - first:
+      74: -8417898840012617256
+    second: Plane.026|Plane.007Action
+  - first:
+      74: 762238106863063265
+    second: Plane.026|Plane.008Action
+  - first:
+      74: 5944260563357998224
+    second: Plane.026|Plane.009Action
+  - first:
+      74: 2000433179017177059
+    second: Plane.026|Plane.010Action
+  - first:
+      74: 4577619579401602672
+    second: Plane.026|Plane.011Action
+  - first:
+      74: -7112137822233447775
+    second: Plane.026|Plane.012Action
+  - first:
+      74: -5722512414990853684
+    second: Plane.026|Plane.013Action
+  - first:
+      74: 801986380449920646
+    second: Plane.026|Plane.014Action
+  - first:
+      74: 1785708599226643297
+    second: Plane.026|Plane.015Action
+  - first:
+      74: 1842811201993296077
+    second: Plane.026|Plane.016Action
+  - first:
+      74: -5528554235457747622
+    second: Plane.026|Plane.017Action
+  - first:
+      74: -6448379206283386827
+    second: Plane.026|Plane.018Action
+  - first:
+      74: 3350212580390336983
+    second: Plane.026|Plane.020Action
+  - first:
+      74: 240631455832830018
+    second: Plane.026|Plane.021Action
+  - first:
+      74: -5509470608828405546
+    second: Plane.026|Plane.022Action
+  - first:
+      74: -2438064811804822715
+    second: Plane.026|Plane.023Action
+  - first:
+      74: -5879060682096018095
+    second: Plane.026|Plane.024Action
+  - first:
+      74: 9178136995070667251
+    second: Plane.026|Plane.025Action
+  - first:
+      74: 2539062987513412413
+    second: Plane.026|Plane.026Action
+  - first:
+      74: -3535492694190950220
+    second: Plane.026|Plane.027Action
+  - first:
+      74: 7868568940972579075
+    second: Plane.026|Plane.028Action
+  - first:
+      74: -3349327829395742489
+    second: Plane.026|Plane.029Action
+  - first:
+      74: 4489216477833996821
+    second: coarse adjustment |Plane.001Action
+  - first:
+      74: 4061731865929471376
+    second: coarse adjustment |Plane.002Action
+  - first:
+      74: -7916415839179045266
+    second: coarse adjustment |Plane.003Action
+  - first:
+      74: 1219685169223476541
+    second: coarse adjustment |Plane.004Action
+  - first:
+      74: 9013063497658340294
+    second: coarse adjustment |Plane.005Action
+  - first:
+      74: 3082307061778851253
+    second: coarse adjustment |Plane.007Action
+  - first:
+      74: -2669810007518678553
+    second: coarse adjustment |Plane.008Action
+  - first:
+      74: 7039466380818508400
+    second: coarse adjustment |Plane.009Action
+  - first:
+      74: -483481466702290813
+    second: coarse adjustment |Plane.010Action
+  - first:
+      74: 7725903445897177290
+    second: coarse adjustment |Plane.011Action
+  - first:
+      74: -5527483504314973649
+    second: coarse adjustment |Plane.012Action
+  - first:
+      74: -5440805676527134416
+    second: coarse adjustment |Plane.013Action
+  - first:
+      74: 8461005274149824129
+    second: coarse adjustment |Plane.014Action
+  - first:
+      74: -478125987820856831
+    second: coarse adjustment |Plane.015Action
+  - first:
+      74: -2118841696111212472
+    second: coarse adjustment |Plane.016Action
+  - first:
+      74: -2258460121817238058
+    second: coarse adjustment |Plane.017Action
+  - first:
+      74: 8219160128463411905
+    second: coarse adjustment |Plane.018Action
+  - first:
+      74: -8368006962598524970
+    second: coarse adjustment |Plane.020Action
+  - first:
+      74: 3927720824508336108
+    second: coarse adjustment |Plane.021Action
+  - first:
+      74: -7185561289142943573
+    second: coarse adjustment |Plane.022Action
+  - first:
+      74: 3776836495720032092
+    second: coarse adjustment |Plane.023Action
+  - first:
+      74: 7596015851123474892
+    second: coarse adjustment |Plane.024Action
+  - first:
+      74: 4126748621479650119
+    second: coarse adjustment |Plane.025Action
+  - first:
+      74: -7657587181104724582
+    second: coarse adjustment |Plane.026Action
+  - first:
+      74: -5919218540037759501
+    second: coarse adjustment |Plane.027Action
+  - first:
+      74: 2864878352317691885
+    second: coarse adjustment |Plane.028Action
+  - first:
+      74: -4528853466649836989
+    second: coarse adjustment |Plane.029Action
+  - first:
+      74: 6346886917813588343
+    second: table|Plane.001Action
+  - first:
+      74: -2042072510389209949
+    second: table|Plane.002Action
+  - first:
+      74: -2172251043295064203
+    second: table|Plane.003Action
+  - first:
+      74: -3327268052573669815
+    second: table|Plane.004Action
+  - first:
+      74: 4743995536015572949
+    second: table|Plane.005Action
+  - first:
+      74: -2611574882156104740
+    second: table|Plane.007Action
+  - first:
+      74: -2134876399014315126
+    second: table|Plane.008Action
+  - first:
+      74: 7884178587469828393
+    second: table|Plane.009Action
+  - first:
+      74: 8014867843429607312
+    second: table|Plane.010Action
+  - first:
+      74: 2408469234084397631
+    second: table|Plane.011Action
+  - first:
+      74: 8002528856631348303
+    second: table|Plane.012Action
+  - first:
+      74: -6369135053668464742
+    second: table|Plane.013Action
+  - first:
+      74: 2257804131462854456
+    second: table|Plane.014Action
+  - first:
+      74: 8046574965782285903
+    second: table|Plane.015Action
+  - first:
+      74: -2627641503165182227
+    second: table|Plane.016Action
+  - first:
+      74: -509641239088014489
+    second: table|Plane.017Action
+  - first:
+      74: 8139798206511935057
+    second: table|Plane.018Action
+  - first:
+      74: 3081928311409412137
+    second: table|Plane.020Action
+  - first:
+      74: -6391345867202643180
+    second: table|Plane.021Action
+  - first:
+      74: -6802733649565266431
+    second: table|Plane.022Action
+  - first:
+      74: 4198539952963534092
+    second: table|Plane.023Action
+  - first:
+      74: -1213390774294802628
+    second: table|Plane.024Action
+  - first:
+      74: -4375451252938878771
+    second: table|Plane.025Action
+  - first:
+      74: -7461783783633166750
+    second: table|Plane.026Action
+  - first:
+      74: 311355893237087630
+    second: table|Plane.027Action
+  - first:
+      74: -7942040530107466991
+    second: table|Plane.028Action
+  - first:
+      74: 2865635517915947633
+    second: table|Plane.029Action
+  - first:
+      74: 8064220935077326710
+    second: glass plate|Plane.001Action
+  - first:
+      74: -325410660169633279
+    second: glass plate|Plane.002Action
+  - first:
+      74: 3646411082430937858
+    second: glass plate|Plane.003Action
+  - first:
+      74: -5665477551144738853
+    second: glass plate|Plane.004Action
+  - first:
+      74: 2099357550065844257
+    second: glass plate|Plane.005Action
+  - first:
+      74: 8088457964252105532
+    second: glass plate|Plane.007Action
+  - first:
+      74: -6912925926798209692
+    second: glass plate|Plane.008Action
+  - first:
+      74: 8221724644782468547
+    second: glass plate|Plane.009Action
+  - first:
+      74: -2546733274055979944
+    second: glass plate|Plane.010Action
+  - first:
+      74: -645453750305572118
+    second: glass plate|Plane.011Action
+  - first:
+      74: 3654353226145780505
+    second: glass plate|Plane.012Action
+  - first:
+      74: 5659334365728630314
+    second: glass plate|Plane.013Action
+  - first:
+      74: 146419901938030289
+    second: glass plate|Plane.014Action
+  - first:
+      74: 1316477655249908354
+    second: glass plate|Plane.015Action
+  - first:
+      74: 932360794264696311
+    second: glass plate|Plane.016Action
+  - first:
+      74: 7359145139981885183
+    second: glass plate|Plane.017Action
+  - first:
+      74: 6083262854062208005
+    second: glass plate|Plane.018Action
+  - first:
+      74: 274372236725353950
+    second: glass plate|Plane.020Action
+  - first:
+      74: -4683450958808504044
+    second: glass plate|Plane.021Action
+  - first:
+      74: 3306163049250022741
+    second: glass plate|Plane.022Action
+  - first:
+      74: 3094082122664843245
+    second: glass plate|Plane.023Action
+  - first:
+      74: -2438496692780925545
+    second: glass plate|Plane.024Action
+  - first:
+      74: 2601291162984754622
+    second: glass plate|Plane.025Action
+  - first:
+      74: -8384834425324821067
+    second: glass plate|Plane.026Action
+  - first:
+      74: 1010243358720632920
+    second: glass plate|Plane.027Action
+  - first:
+      74: 2987123705644249507
+    second: glass plate|Plane.028Action
+  - first:
+      74: 8072162536490022198
+    second: glass plate|Plane.029Action
+  - first:
+      74: 3353570322666672967
+    second: walls|Plane.001Action
+  - first:
+      74: -642151558844740709
+    second: walls|Plane.002Action
+  - first:
+      74: -1028341857600510429
+    second: walls|Plane.003Action
+  - first:
+      74: -7356847298330487326
+    second: walls|Plane.004Action
+  - first:
+      74: 3927973767071983175
+    second: walls|Plane.005Action
+  - first:
+      74: 11805272535354256
+    second: walls|Plane.007Action
+  - first:
+      74: -2829296229510967074
+    second: walls|Plane.008Action
+  - first:
+      74: 359295248125785255
+    second: walls|Plane.009Action
+  - first:
+      74: -4582343348223357027
+    second: walls|Plane.010Action
+  - first:
+      74: -6573001282003649810
+    second: walls|Plane.011Action
+  - first:
+      74: -9173081824032706822
+    second: walls|Plane.012Action
+  - first:
+      74: -7185592987358334174
+    second: walls|Plane.013Action
+  - first:
+      74: -5671531118980097538
+    second: walls|Plane.014Action
+  - first:
+      74: -4065904846292679197
+    second: walls|Plane.015Action
+  - first:
+      74: 801217109775393441
+    second: walls|Plane.016Action
+  - first:
+      74: 4806109245467430696
+    second: walls|Plane.017Action
+  - first:
+      74: -2293738172046842248
+    second: walls|Plane.018Action
+  - first:
+      74: -1390994880166684289
+    second: walls|Plane.020Action
+  - first:
+      74: 1062552132936292501
+    second: walls|Plane.021Action
+  - first:
+      74: -9113957145178520158
+    second: walls|Plane.022Action
+  - first:
+      74: -7667044077357609707
+    second: walls|Plane.023Action
+  - first:
+      74: 8524704700116485730
+    second: walls|Plane.024Action
+  - first:
+      74: 5470719182758139253
+    second: walls|Plane.025Action
+  - first:
+      74: -3178215998690678858
+    second: walls|Plane.026Action
+  - first:
+      74: 6053823380450046691
+    second: walls|Plane.027Action
+  - first:
+      74: -9038757964449481831
+    second: walls|Plane.028Action
+  - first:
+      74: 153908726006155369
+    second: walls|Plane.029Action
+  - first:
+      74: -2430049641371650666
+    second: board|Plane.001Action
+  - first:
+      74: 3020211987404730929
+    second: board|Plane.002Action
+  - first:
+      74: -6341766337323595416
+    second: board|Plane.003Action
+  - first:
+      74: 1345561019795796028
+    second: board|Plane.004Action
+  - first:
+      74: -5816825818235815559
+    second: board|Plane.005Action
+  - first:
+      74: -7025843828781679317
+    second: board|Plane.007Action
+  - first:
+      74: 1693155011691669179
+    second: board|Plane.008Action
+  - first:
+      74: 8470808786668857845
+    second: board|Plane.009Action
+  - first:
+      74: -7064529949192171240
+    second: board|Plane.010Action
+  - first:
+      74: 1676087724149165532
+    second: board|Plane.011Action
+  - first:
+      74: 516537511339560635
+    second: board|Plane.012Action
+  - first:
+      74: 1071494959510356995
+    second: board|Plane.013Action
+  - first:
+      74: 7640450694591449069
+    second: board|Plane.014Action
+  - first:
+      74: 1374769032624462470
+    second: board|Plane.015Action
+  - first:
+      74: -3061247978135135446
+    second: board|Plane.016Action
+  - first:
+      74: 304401317102049165
+    second: board|Plane.017Action
+  - first:
+      74: -7637989268936963045
+    second: board|Plane.018Action
+  - first:
+      74: -4125977445949829890
+    second: board|Plane.020Action
+  - first:
+      74: 2483304459641782718
+    second: board|Plane.021Action
+  - first:
+      74: 101130756541017505
+    second: board|Plane.022Action
+  - first:
+      74: 1681169243235891057
+    second: board|Plane.023Action
+  - first:
+      74: 772525652465590111
+    second: board|Plane.024Action
+  - first:
+      74: -49910655006077261
+    second: board|Plane.025Action
+  - first:
+      74: 1589350945886576730
+    second: board|Plane.026Action
+  - first:
+      74: -1770680455108585108
+    second: board|Plane.027Action
+  - first:
+      74: -3654406129593772573
+    second: board|Plane.028Action
+  - first:
+      74: 3331022209520917077
+    second: board|Plane.029Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
